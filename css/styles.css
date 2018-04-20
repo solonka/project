@@ -7,10 +7,11 @@ h1
 }
 img
 {
-  margin: 100px;
-  border: 1px solid blue;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 20px;
+  width: 250px;
   display: block;
-  width: 50%;
-  margin-right: auto;
   margin-left: auto;
+  margin-right: auto;
 }
