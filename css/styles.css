@@ -5,3 +5,12 @@ h1
   color: orange;
   text-align: center;
 }
+img
+{
+  margin: 100px;
+  border: 1px solid blue;
+  display: block;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+}
