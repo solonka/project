@@ -2,7 +2,7 @@
 #### {My Portfolio}, {20/04/2018}
 #### By **{Ariel Solonka}**
 ## Description
-{It is a simple web page that includes my portfolio. It includes the links to my previous projects. }
+{It is a simple web page that includes my portfolio. It includes the links to my previous projects.https://github.com/solonka/project.git }
 ## Setup/Installation Requirements
 {the web page opens on any device with internet access.}
 ## Known Bugs
